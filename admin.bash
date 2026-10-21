@@ -1,0 +1,7 @@
+#!/bin/bash
+
+top | head -10
+df -h
+free -m
+uptime
+iostat
